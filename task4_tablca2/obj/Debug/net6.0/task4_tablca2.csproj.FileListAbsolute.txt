@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik3\task4_tablca2\obj\Debug\net6.0\task4_tablca2.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik3\task4_tablca2\obj\Debug\net6.0\task4_tablca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik3\task4_tablca2\obj\Debug\net6.0\task4_tablca2.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik3\task4_tablca2\obj\Debug\net6.0\task4_tablca2.AssemblyInfo.cs
+C:\Git brance\Reshebnik3\task4_tablca2\obj\Debug\net6.0\task4_tablca2.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik3\task4_tablca2\bin\Debug\net6.0\task4_tablca2.exe
+C:\Git brance\Reshebnik3\task4_tablca2\bin\Debug\net6.0\task4_tablca2.deps.json
+C:\Git brance\Reshebnik3\task4_tablca2\bin\Debug\net6.0\task4_tablca2.runtimeconfig.json
+C:\Git brance\Reshebnik3\task4_tablca2\bin\Debug\net6.0\task4_tablca2.dll
+C:\Git brance\Reshebnik3\task4_tablca2\bin\Debug\net6.0\task4_tablca2.pdb
+C:\Git brance\Reshebnik3\task4_tablca2\obj\Debug\net6.0\task4_tablca2.dll
+C:\Git brance\Reshebnik3\task4_tablca2\obj\Debug\net6.0\refint\task4_tablca2.dll
+C:\Git brance\Reshebnik3\task4_tablca2\obj\Debug\net6.0\task4_tablca2.pdb
+C:\Git brance\Reshebnik3\task4_tablca2\obj\Debug\net6.0\task4_tablca2.genruntimeconfig.cache
+C:\Git brance\Reshebnik3\task4_tablca2\obj\Debug\net6.0\ref\task4_tablca2.dll
