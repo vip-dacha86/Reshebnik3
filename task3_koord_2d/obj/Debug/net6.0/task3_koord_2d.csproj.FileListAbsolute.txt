@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik3\task3_koord_2d\obj\Debug\net6.0\task3_koord_2d.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik3\task3_koord_2d\obj\Debug\net6.0\task3_koord_2d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik3\task3_koord_2d\obj\Debug\net6.0\task3_koord_2d.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik3\task3_koord_2d\obj\Debug\net6.0\task3_koord_2d.AssemblyInfo.cs
+C:\Git brance\Reshebnik3\task3_koord_2d\obj\Debug\net6.0\task3_koord_2d.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik3\task3_koord_2d\bin\Debug\net6.0\task3_koord_2d.exe
+C:\Git brance\Reshebnik3\task3_koord_2d\bin\Debug\net6.0\task3_koord_2d.deps.json
+C:\Git brance\Reshebnik3\task3_koord_2d\bin\Debug\net6.0\task3_koord_2d.runtimeconfig.json
+C:\Git brance\Reshebnik3\task3_koord_2d\bin\Debug\net6.0\task3_koord_2d.dll
+C:\Git brance\Reshebnik3\task3_koord_2d\bin\Debug\net6.0\task3_koord_2d.pdb
+C:\Git brance\Reshebnik3\task3_koord_2d\obj\Debug\net6.0\task3_koord_2d.dll
+C:\Git brance\Reshebnik3\task3_koord_2d\obj\Debug\net6.0\refint\task3_koord_2d.dll
+C:\Git brance\Reshebnik3\task3_koord_2d\obj\Debug\net6.0\task3_koord_2d.pdb
+C:\Git brance\Reshebnik3\task3_koord_2d\obj\Debug\net6.0\task3_koord_2d.genruntimeconfig.cache
+C:\Git brance\Reshebnik3\task3_koord_2d\obj\Debug\net6.0\ref\task3_koord_2d.dll
