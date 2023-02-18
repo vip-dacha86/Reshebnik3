@@ -1,0 +1,5 @@
+C:\Git brance\Reshebnik3\task2_case\obj\Debug\net6.0\task2_case.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik3\task2_case\obj\Debug\net6.0\task2_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik3\task2_case\obj\Debug\net6.0\task2_case.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik3\task2_case\obj\Debug\net6.0\task2_case.AssemblyInfo.cs
+C:\Git brance\Reshebnik3\task2_case\obj\Debug\net6.0\task2_case.csproj.CoreCompileInputs.cache
