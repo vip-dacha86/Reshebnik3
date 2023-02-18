@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik3\task1_koordinat\bin\Debug\net6.0\task1_koordinat.exe
+C:\Git brance\Reshebnik3\task1_koordinat\bin\Debug\net6.0\task1_koordinat.deps.json
+C:\Git brance\Reshebnik3\task1_koordinat\bin\Debug\net6.0\task1_koordinat.runtimeconfig.json
+C:\Git brance\Reshebnik3\task1_koordinat\bin\Debug\net6.0\task1_koordinat.dll
+C:\Git brance\Reshebnik3\task1_koordinat\bin\Debug\net6.0\task1_koordinat.pdb
+C:\Git brance\Reshebnik3\task1_koordinat\obj\Debug\net6.0\task1_koordinat.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik3\task1_koordinat\obj\Debug\net6.0\task1_koordinat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik3\task1_koordinat\obj\Debug\net6.0\task1_koordinat.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik3\task1_koordinat\obj\Debug\net6.0\task1_koordinat.AssemblyInfo.cs
+C:\Git brance\Reshebnik3\task1_koordinat\obj\Debug\net6.0\task1_koordinat.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik3\task1_koordinat\obj\Debug\net6.0\task1_koordinat.dll
+C:\Git brance\Reshebnik3\task1_koordinat\obj\Debug\net6.0\refint\task1_koordinat.dll
+C:\Git brance\Reshebnik3\task1_koordinat\obj\Debug\net6.0\task1_koordinat.pdb
+C:\Git brance\Reshebnik3\task1_koordinat\obj\Debug\net6.0\task1_koordinat.genruntimeconfig.cache
+C:\Git brance\Reshebnik3\task1_koordinat\obj\Debug\net6.0\ref\task1_koordinat.dll
