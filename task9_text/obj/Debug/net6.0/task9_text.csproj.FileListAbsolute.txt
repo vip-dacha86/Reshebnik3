@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik3\task9_text\bin\Debug\net6.0\task9_text.exe
+C:\Git brance\Reshebnik3\task9_text\bin\Debug\net6.0\task9_text.deps.json
+C:\Git brance\Reshebnik3\task9_text\bin\Debug\net6.0\task9_text.runtimeconfig.json
+C:\Git brance\Reshebnik3\task9_text\bin\Debug\net6.0\task9_text.dll
+C:\Git brance\Reshebnik3\task9_text\bin\Debug\net6.0\task9_text.pdb
+C:\Git brance\Reshebnik3\task9_text\obj\Debug\net6.0\task9_text.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik3\task9_text\obj\Debug\net6.0\task9_text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik3\task9_text\obj\Debug\net6.0\task9_text.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik3\task9_text\obj\Debug\net6.0\task9_text.AssemblyInfo.cs
+C:\Git brance\Reshebnik3\task9_text\obj\Debug\net6.0\task9_text.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik3\task9_text\obj\Debug\net6.0\task9_text.dll
+C:\Git brance\Reshebnik3\task9_text\obj\Debug\net6.0\refint\task9_text.dll
+C:\Git brance\Reshebnik3\task9_text\obj\Debug\net6.0\task9_text.pdb
+C:\Git brance\Reshebnik3\task9_text\obj\Debug\net6.0\task9_text.genruntimeconfig.cache
+C:\Git brance\Reshebnik3\task9_text\obj\Debug\net6.0\ref\task9_text.dll
