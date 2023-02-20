@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik3\task8_metodtablica\obj\Debug\net6.0\task8_metodtablica.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik3\task8_metodtablica\obj\Debug\net6.0\task8_metodtablica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik3\task8_metodtablica\obj\Debug\net6.0\task8_metodtablica.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik3\task8_metodtablica\obj\Debug\net6.0\task8_metodtablica.AssemblyInfo.cs
+C:\Git brance\Reshebnik3\task8_metodtablica\obj\Debug\net6.0\task8_metodtablica.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik3\task8_metodtablica\bin\Debug\net6.0\task8_metodtablica.exe
+C:\Git brance\Reshebnik3\task8_metodtablica\bin\Debug\net6.0\task8_metodtablica.deps.json
+C:\Git brance\Reshebnik3\task8_metodtablica\bin\Debug\net6.0\task8_metodtablica.runtimeconfig.json
+C:\Git brance\Reshebnik3\task8_metodtablica\bin\Debug\net6.0\task8_metodtablica.dll
+C:\Git brance\Reshebnik3\task8_metodtablica\bin\Debug\net6.0\task8_metodtablica.pdb
+C:\Git brance\Reshebnik3\task8_metodtablica\obj\Debug\net6.0\task8_metodtablica.dll
+C:\Git brance\Reshebnik3\task8_metodtablica\obj\Debug\net6.0\refint\task8_metodtablica.dll
+C:\Git brance\Reshebnik3\task8_metodtablica\obj\Debug\net6.0\task8_metodtablica.pdb
+C:\Git brance\Reshebnik3\task8_metodtablica\obj\Debug\net6.0\task8_metodtablica.genruntimeconfig.cache
+C:\Git brance\Reshebnik3\task8_metodtablica\obj\Debug\net6.0\ref\task8_metodtablica.dll
