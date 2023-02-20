@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik3\task10_massiv\bin\Debug\net6.0\task10_massiv.exe
+C:\Git brance\Reshebnik3\task10_massiv\bin\Debug\net6.0\task10_massiv.deps.json
+C:\Git brance\Reshebnik3\task10_massiv\bin\Debug\net6.0\task10_massiv.runtimeconfig.json
+C:\Git brance\Reshebnik3\task10_massiv\bin\Debug\net6.0\task10_massiv.dll
+C:\Git brance\Reshebnik3\task10_massiv\bin\Debug\net6.0\task10_massiv.pdb
+C:\Git brance\Reshebnik3\task10_massiv\obj\Debug\net6.0\task10_massiv.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik3\task10_massiv\obj\Debug\net6.0\task10_massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik3\task10_massiv\obj\Debug\net6.0\task10_massiv.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik3\task10_massiv\obj\Debug\net6.0\task10_massiv.AssemblyInfo.cs
+C:\Git brance\Reshebnik3\task10_massiv\obj\Debug\net6.0\task10_massiv.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik3\task10_massiv\obj\Debug\net6.0\task10_massiv.dll
+C:\Git brance\Reshebnik3\task10_massiv\obj\Debug\net6.0\refint\task10_massiv.dll
+C:\Git brance\Reshebnik3\task10_massiv\obj\Debug\net6.0\task10_massiv.pdb
+C:\Git brance\Reshebnik3\task10_massiv\obj\Debug\net6.0\task10_massiv.genruntimeconfig.cache
+C:\Git brance\Reshebnik3\task10_massiv\obj\Debug\net6.0\ref\task10_massiv.dll
