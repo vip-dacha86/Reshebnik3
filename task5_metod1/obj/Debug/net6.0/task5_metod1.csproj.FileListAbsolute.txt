@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik3\task5_metod1\bin\Debug\net6.0\task5_metod1.exe
+C:\Git brance\Reshebnik3\task5_metod1\bin\Debug\net6.0\task5_metod1.deps.json
+C:\Git brance\Reshebnik3\task5_metod1\bin\Debug\net6.0\task5_metod1.runtimeconfig.json
+C:\Git brance\Reshebnik3\task5_metod1\bin\Debug\net6.0\task5_metod1.dll
+C:\Git brance\Reshebnik3\task5_metod1\bin\Debug\net6.0\task5_metod1.pdb
+C:\Git brance\Reshebnik3\task5_metod1\obj\Debug\net6.0\task5_metod1.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik3\task5_metod1\obj\Debug\net6.0\task5_metod1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik3\task5_metod1\obj\Debug\net6.0\task5_metod1.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik3\task5_metod1\obj\Debug\net6.0\task5_metod1.AssemblyInfo.cs
+C:\Git brance\Reshebnik3\task5_metod1\obj\Debug\net6.0\task5_metod1.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik3\task5_metod1\obj\Debug\net6.0\task5_metod1.dll
+C:\Git brance\Reshebnik3\task5_metod1\obj\Debug\net6.0\refint\task5_metod1.dll
+C:\Git brance\Reshebnik3\task5_metod1\obj\Debug\net6.0\task5_metod1.pdb
+C:\Git brance\Reshebnik3\task5_metod1\obj\Debug\net6.0\task5_metod1.genruntimeconfig.cache
+C:\Git brance\Reshebnik3\task5_metod1\obj\Debug\net6.0\ref\task5_metod1.dll
